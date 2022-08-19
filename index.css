@@ -1,25 +1,38 @@
-body{
+body {
     background-color: aquamarine;
     font-family: 'Courier New', Courier, monospace;
 }
 
-h1{
+h1 {
     outline-color: black;
     outline-style: double;
     text-align: center;
 }
-h4{
+
+h4 {
     font-size: 30px;
     text-decoration: underline overline;
 }
-a:link{
+
+a:link {
     color: black;
 }
-a:visited{
+
+a:visited {
     color: blanchedalmond;
 }
-button{
+
+button {
     font-size: 24px;
     color: beige;
     background-color: rgb(233, 111, 233);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    width: 1080px;
 }

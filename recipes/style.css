@@ -31,3 +31,12 @@ a:visited{
     color: rgb(183, 243, 220);
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    width: 1080px;
+}
+
