@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(255, 225, 127);
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    outline-color: black;
+    outline-style: double;
+    text-align: center;
+}
+h3{
+    background-color: rgb(175, 121, 89);
+    font-size: 30px;
+    text-decoration: underline overline;
+}
+ul{
+    background-color: blanchedalmond;
+    outline-style: dashed;
+}
+ol{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(243, 200, 136);
+}
+button{
+    background-color: rgb(200, 165, 233);
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: rgb(183, 243, 220);
+}
+
